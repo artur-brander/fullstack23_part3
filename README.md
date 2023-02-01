@@ -5,3 +5,5 @@ This repository for part 3 is apart from the main repository due to the recommen
 "NB: It's recommended to do all of the exercises from this part into a new dedicated git repository, and place your source code right at the root of the repository. Otherwise, you will run into problems in exercise 3.10."
 
 Main repository can be found from [here](https://github.com/artur-brander/fullstack23)
+
+Online deployment can be found [here](https://phonebook23.fly.dev/)
